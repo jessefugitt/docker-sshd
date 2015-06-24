@@ -2,7 +2,7 @@
 
 ###To run
 ```
-docker run -d -p 2222:22 -p 8080:8080 jessefugitt/docker-sshd
+docker run -d -p 2222:22 -p 1234:1234 jessefugitt/docker-sshd
 ```
 ###To connect with a client
 ```
